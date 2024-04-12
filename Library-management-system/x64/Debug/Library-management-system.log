@@ -1,0 +1,8 @@
+﻿  Library-management-system.cpp
+C:\Users\GwT-8\source\repos\Library-management-system\Library-management-system\Library-management-system.cpp(46,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GwT-8\source\repos\Library-management-system\Library-management-system\Library-management-system.cpp(57,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Library-management-system.vcxproj -> C:\Users\GwT-8\source\repos\Library-management-system\x64\Debug\Library-management-system.exe
