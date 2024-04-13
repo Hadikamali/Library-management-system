@@ -19,25 +19,27 @@ To get started with this project, follow these steps:
 3. **Compile the project using g++ or any compatible C++ compiler:**
 ```bash
 g++ -o library main.cpp
-
+```
 Run the compiled program:
+```bash
 ./library
-
+```
 Example Usage
 When you run the program, you will see the following menu:
-
+```bash
 Enter your choice:
 1. Add Book
 2. Display All Books
 3. Search for a Book
 4. Delete a Book
 5. Exit
+```
 
 Select an option by entering the corresponding number. Follow the on-screen prompts to manage the library's collection.
 Requirements
 
-    C++ Compiler (g++, Clang, etc.)
-    Standard C++ Library
+C++ Compiler (g++, Clang, etc.)
+Standard C++ Library
 
 
     
