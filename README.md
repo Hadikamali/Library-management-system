@@ -39,8 +39,8 @@ Select an option by entering the corresponding number. Follow the on-screen prom
 Requirements
 
 C++ Compiler (g++, Clang, etc.)
-Standard C++ Library
 
+Standard C++ Library
 
     
 ### Additional Notes:
