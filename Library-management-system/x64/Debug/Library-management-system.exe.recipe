@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
   <ProjectOutputs>
@@ -8,4 +9,16 @@
   <ContentFiles />
   <SatelliteDlls />
   <NonRecipeFileRefs />
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\GwT-8\source\repos\Library-management-system\x64\Debug\Library-management-system.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+>>>>>>> 1a6c22ad794dd89a5060ab943157b28116f4f715
 </Project>

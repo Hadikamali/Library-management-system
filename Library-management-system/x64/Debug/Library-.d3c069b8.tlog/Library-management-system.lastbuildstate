@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.34.31933:TargetPlatformVersion=10.0.22000.0:
 Debug|x64|C:\Users\GwT-8\source\repos\Library-management-system\|
+=======
+PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.34.31933:TargetPlatformVersion=10.0.22000.0:
+Debug|x64|C:\Users\GwT-8\source\repos\Library-management-system\|
+>>>>>>> 1a6c22ad794dd89a5060ab943157b28116f4f715
