@@ -34,7 +34,6 @@ Enter your choice:
 4. Delete a Book
 5. Exit
 ```
-
 Select an option by entering the corresponding number. Follow the on-screen prompts to manage the library's collection.
 Requirements
 
