@@ -46,4 +46,4 @@ Standard C++ Library
 - **Replace placeholders**: Make sure to replace `URL_OF_YOUR_REPOSITORY` and `URL_TO_GITHUB_ISSUES` with actual URLs pertaining to your GitHub repository.
 - **License File**: If you mention a license, ensure that a `LICENSE` file exists in your repository with the appropriate license details.
 
-By using this template, you provide enough information for others to understand the purpose of the project, how to set it up, and how they can contribute to its development.
+By using this template, you provide enough information for others to understand the purpose of the project, how to set it up, and how they can contribute to its development
